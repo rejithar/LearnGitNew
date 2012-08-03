@@ -7,3 +7,4 @@ Temp
 *.pidb
 *.sln
 build
+*.userprefs
