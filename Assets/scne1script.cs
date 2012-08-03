@@ -2,7 +2,7 @@ using UnityEngine;
 using System.Collections;
 
 public class scne1script : MonoBehaviour {
-
+	/*
 	// Use this for initialization
 	void Start () {
 	
@@ -15,5 +15,5 @@ public class scne1script : MonoBehaviour {
 =======
 	Debug.Log ("in scne1");
 >>>>>>> modified abba's script
-	}
+	}*/
 }
