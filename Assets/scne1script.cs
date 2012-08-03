@@ -10,6 +10,6 @@ public class scne1script : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-	
+		print ("Abba Modified this script");
 	}
 }
