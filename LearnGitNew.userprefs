@@ -1,9 +1,14 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scne1script.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/abbaScene1.cs">
     <Files>
+<<<<<<< HEAD
       <File FileName="Assets/abbaScene1.cs" Line="13" Column="18" />
       <File FileName="Assets/scne1script.cs" Line="11" Column="31" />
+=======
+      <File FileName="Assets/scne1script.cs" Line="13" Column="25" />
+      <File FileName="Assets/abbaScene1.cs" Line="14" Column="68" />
+>>>>>>> modified abba's script
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
